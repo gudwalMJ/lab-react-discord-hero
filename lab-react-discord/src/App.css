@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+}
+.App h1 {
+  color: white;
+  font-size: 60px;
+}
+.h1Break {
+  display: block;
+}
+.App p {
+  font-size: 20px;
+}
+
+.macButton {
+}
+
+.browserButton {
+}
